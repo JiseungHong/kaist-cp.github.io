@@ -10,13 +10,7 @@ excerpt: "Jiseung Hong's website"
 I am a undergraduate student at KAIST SoC(School of Computing). I am currently going through indivisual study at **[Concurrency and Parallelism Laboratory.](https://cp.kaist.ac.kr)** I am joining the project hafnium verification with prof. Jeehoon Kang, Sanguk Park and more.
 
 
-#### Contact
-
-- Email : jiseung.hong@kaist.ac.kr
-
-- GitHub : JiseungHong
-
-- Place : Rm. 4441, Bldg. E3-1, KAIST (+82-42-350-7878)
+{% include person_contact.md person_id=person_id %}
 
 
 #### Calendar
